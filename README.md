@@ -1,1 +1,1 @@
-# odin-recipes
+This is the first project to demonstrate my knowledge of basic html code and creating the skeletal structure of what will become a website! I will return to this readme and recap what Ive learned and what skills I used.
